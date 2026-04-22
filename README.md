@@ -11,9 +11,9 @@
 
 </div>
 
----
-
-<img align="right" src="https://i.ibb.co.com/CsQ7tsmr/Proyek-Baru-16-E862270.png" width="180px"/>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top" width="75%">
 
 ## 🧠 Know About Me
 
@@ -25,7 +25,12 @@ When I'm not coding, I'm smashing shuttlecocks on the badminton court, or crafti
 
 > *"Can stay up all night fixing bugs, but can't wake up for 8AM class."*
 
-<br clear="right"/>
+</td>
+<td valign="top" align="right" width="25%">
+<img src="https://i.ibb.co.com/CsQ7tsmr/Proyek-Baru-16-E862270.png" width="160px"/>
+</td>
+</tr>
+</table>
 
 ---
 
