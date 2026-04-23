@@ -27,7 +27,6 @@ When I'm not coding, I'm smashing shuttlecocks on the badminton court, or crafti
 
 </td>
 <td valign="top" align="right" width="25%">
-<img src="https://i.ibb.co.com/CsQ7tsmr/Proyek-Baru-16-E862270.png" width="160px"/>
 </td>
 </tr>
 </table>
