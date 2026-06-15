@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co.com/jkXvL4pG/Proyek-Baru-13-6-FCC806.png" width="100%"/>
+<img src="https://i.ibb.co.com/hJ8YG1v3/quality-restoration-20260615171436282.jpg" width="100%"/>
 </div>
 
 <br/>
