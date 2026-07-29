@@ -97,7 +97,7 @@ const casaa = {
       <h3>🚀 Featured Project</h3>
       <br/>
       <a href="https://github.com/itscasaa/ExtensionAI" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itscasaa&repo=ExtensionAI&theme=dark&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&hide_border=true" width="100%"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=itscasaa&repo=ExtensionAI&theme=dark&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&hide_border=true" width="100%"/>
       </a>
     </td>
   </tr>
@@ -107,7 +107,7 @@ const casaa = {
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=itscasaa&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&ring_color=ffffff" width="48%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=itscasaa&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&ring_color=ffffff" width="48%"/>
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itscasaa&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa&currStreakNum=ffffff&sideNums=ffffff" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=itscasaa&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa&currStreakNum=ffffff&sideNums=ffffff" width="48%"/>
 </div>
