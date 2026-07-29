@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/mp4xvJv/1001053503-jpg.jpg" width="50%" alt="Casaa's Banner"/>
+  <img src="https://raw.githubusercontent.com/itscasaa/itscasaa/main/banner.png" width="100%" alt="Casaa Banner"/>
 </div>
 
 <br/>
