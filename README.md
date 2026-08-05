@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/itscasaa/itscasaa/main/banner.png" width="100%" alt="Casaa Banner"/>
+  <img src="https://www.image2url.com/r2/default/gifs/1785956606745-acba7c97-63a1-455b-b268-2baa3f873952.gif" width="100%" alt="Casaa Banner"/>
 </div>
 
 <br/>
