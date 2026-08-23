@@ -39,20 +39,6 @@
 
 ---
 
-```javascript
-const casaa = {
-  name: "Enden Rizky Sri Dani",
-  alias: ["Ndenn", "Casaa"],
-  status: "Mahasiswa Teknik Informatika 🎓",
-  currentlyBuilding: "Quiz Helper AI (Cassalux)",
-  funFact: "Bisa begadang buat fix bug, tapi ga bisa bangun pagi buat kuliah",
-  hobbies: ["Coding 💻", "Badminton 🏸", "Ngedit di Alight Motion 🎬"],
-  os: "Linux (di VPS), Windows (di rumah), ngantuk (di mana-mana)",
-};
-```
-
----
-
 <div align="center">
   <h3>📬 You Can Click Here</h3>
   <a href="https://github.com/itscasaa" target="_blank">
