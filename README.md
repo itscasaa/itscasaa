@@ -109,5 +109,5 @@ const casaa = {
   <br/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=itscasaa&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&ring_color=ffffff" width="48%"/>
   &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=itscasaa&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa&currStreakNum=ffffff&sideNums=ffffff" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=itscasaa&hide_border=true&background=000000&ring=ffffff&fire=FF5722&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa&currStreakNum=ffffff&sideNums=ffffff" width="48%"/>
 </div>
