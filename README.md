@@ -2,9 +2,9 @@
 <!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itscasaa/itscasaa/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itscasaa/itscasaa/main/light.svg">
-  <img alt="Enden Rizky (Casaa)" src="https://raw.githubusercontent.com/itscasaa/itscasaa/main/light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itscasaa/itscasaa/main/dark.svg?v=skull">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itscasaa/itscasaa/main/light.svg?v=skull">
+  <img alt="Enden Rizky (Casaa)" src="https://raw.githubusercontent.com/itscasaa/itscasaa/main/light.svg?v=skull">
 </picture>
 
 <!-- ===== GITHUB STATS ===== -->
