@@ -1,0 +1,38 @@
+[
+  {
+    "name": "ExtensionAI",
+    "repo": "itscasaa/ExtensionAI",
+    "description": "AI-Powered Chrome Extension assistant for smart browsing and automated workflows",
+    "tags": ["TypeScript", "React", "AI", "Extension"]
+  },
+  {
+    "name": "CasaaTools",
+    "repo": "itscasaa/CasaaTools",
+    "description": "All-in-one developer utility suite and cloud toolkit platform",
+    "tags": ["JavaScript", "Node.js", "Express", "REST-API"]
+  },
+  {
+    "name": "CasaNest",
+    "repo": "itscasaa/Cloud-Drive-Project",
+    "description": "High-performance cloud storage and secure file management system",
+    "tags": ["TypeScript", "Node.js", "Storage", "Next.js"]
+  },
+  {
+    "name": "ZyvoraCraft ResourcePack",
+    "repo": "itscasaa/zyvoracraft-resourcepack",
+    "description": "Dynamic CDN hosting pipeline for Minecraft server resource packs",
+    "tags": ["JavaScript", "HTML", "Nginx", "CDN"]
+  },
+  {
+    "name": "Bus Pariwisata",
+    "repo": "itscasaa/bus-pariwisata-fixed",
+    "description": "Tourism bus booking, fleet scheduling, and reservation system",
+    "tags": ["JavaScript", "PHP", "Laravel", "MySQL"]
+  },
+  {
+    "name": "Automation Suite",
+    "repo": "itscasaa/Automation-Cliping",
+    "description": "Intelligent automated workflows and smart headless bot engine",
+    "tags": ["Python", "Puppeteer", "Automation", "Bot"]
+  }
+]

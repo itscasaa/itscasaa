@@ -1,99 +1,81 @@
+<!-- ===== THEME-AWARE HERO BANNER ===== -->
+<!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itscasaa/itscasaa/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itscasaa/itscasaa/main/light.svg">
+  <img alt="Enden Rizky (Casaa)" src="https://raw.githubusercontent.com/itscasaa/itscasaa/main/light.svg">
+</picture>
+
+<!-- ===== GITHUB STATS ===== -->
+
 <div align="center">
-  <img src="https://www.image2url.com/r2/default/gifs/1785956606745-acba7c97-63a1-455b-b268-2baa3f873952.gif" width="100%" alt="Casaa Banner"/>
-</div>
+
+<!-- Streak — full width -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=itscasaa&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=itscasaa&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Casaa's streak" />
+</picture>
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/itscasaa">
-    <img src="https://img.shields.io/github/stars/itscasaa?style=for-the-badge&label=STARS&color=000000&logo=github&logoColor=ffffff" alt="Stars"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/itscasaa">
-    <img src="https://img.shields.io/github/followers/itscasaa?style=for-the-badge&label=FOLLOWERS&color=000000&logo=github&logoColor=ffffff" alt="Followers"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/itscasaa?tab=repositories">
-    <img src="https://img.shields.io/badge/REPOS-14-000000?style=for-the-badge&logo=github&logoColor=ffffff" alt="Repositories"/>
-  </a>
+<!-- Stats + Top languages — side by side -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=itscasaa&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=itscasaa&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Casaa's GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=itscasaa&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=itscasaa&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
+</picture>
+
 </div>
 
----
-
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-  <tr>
-    <td valign="top" width="30%" align="center">
-      <br/>
-      <img src="https://avatars.githubusercontent.com/u/116732260?v=4" width="150" style="border-radius: 50%; border: 3px solid #ffffff;"/>
-      <br/><br/>
-      <code>itscasaa.sys</code>
-    </td>
-    <td valign="top" width="70%" style="padding-left: 20px;">
-      <h2>⚔️ Who Am I?</h2>
-      <p>Hey there! I'm <strong>Enden Rizky Sri Dani</strong> (usually called <strong>Ndenn</strong> or <strong>Casaa</strong>).</p>
-      <p>I'm a Computer Science undergrad fueled by instant noodles and an unhealthy obsession with building things that actually work. By day, I pretend to understand algorithms. By night, I spin up VPS servers and deploy AI-powered apps just to avoid doing actual assignments.</p>
-      <p>When I'm not coding, I'm smashing shuttlecocks on the badminton court, or crafting smooth edits on Alight Motion like it's my second job.</p>
-    </td>
-  </tr>
-</table>
-
----
+<!-- ===== CONTRIBUTION SNAKE ===== -->
 
 <div align="center">
-  <h3>📬 You Can Click Here</h3>
-  <a href="https://github.com/itscasaa" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itscasaa/itscasaa/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itscasaa/itscasaa/output/snake-light.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/itscasaa/itscasaa/output/snake-light.svg" />
+</picture>
+
 </div>
 
----
-
-<blockquote>
-  <p>
-    <strong>⚠️ Caution</strong><br/>
-    <em>"Code is never finished, it only becomes slightly less broken over time."</em><br/>
-    What you see here is built with late-night coffee, stack overflow, and pure stubbornness.
-  </p>
-</blockquote>
-
----
-
+<!-- ===== END SNAKE ===== -->
+<br/>
+<br/>
 <div align="center">
-  <h3>📊 My Contributions</h3>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itscasaa&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=222222&hide_border=true" width="100%"/>
+<img width="100%" src="https://raw.githubusercontent.com/itscasaa/itscasaa/projects/projects.svg" alt="Projects" />
 </div>
 
----
-
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-  <tr>
-    <td valign="top" width="50%">
-      <h3>🛠️ Tech Stack</h3>
-      <br/>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,php,laravel,mysql,postgres,mongodb,linux,nginx,docker,git,github,vscode,figma,postman&theme=dark&perline=4" />
-      </a>
-    </td>
-    <td valign="top" width="50%" style="padding-left: 20px;">
-      <h3>🚀 Featured Project</h3>
-      <br/>
-      <a href="https://github.com/itscasaa/ExtensionAI" target="_blank">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=itscasaa&repo=ExtensionAI&theme=dark&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&hide_border=true" width="100%"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
+<!-- ===== SOCIAL BADGES ===== -->
+<br/>
 <div align="center">
-  <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=itscasaa&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&ring_color=ffffff" width="48%"/>
-  &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=itscasaa&hide_border=true&background=000000&ring=ffffff&fire=FF5722&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa&currStreakNum=ffffff&sideNums=ffffff" width="48%"/>
+
+<a href="https://www.linkedin.com/in/enden-rizky-sri-dani-718173412/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logoColor=white&labelColor=0A101F&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/ndennn_xv/">
+  <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.tiktok.com/@mkxaxv">
+  <img src="https://img.shields.io/badge/TikTok-0A101F?style=for-the-badge&logo=tiktok&logoColor=22D3EE&labelColor=0A101F" alt="TikTok" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/itscasaa">
+  <img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=10B981&labelColor=0A101F" alt="GitHub" />
+</a>
+&nbsp;&nbsp;
+<a href="https://discord.com">
+  <img src="https://img.shields.io/badge/Discord-0A101F?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=0A101F" alt="Discord" />
+</a>
+
 </div>
+
+<!-- ===== END SOCIAL BADGES ===== -->
+
+<!-- =================================== -->
